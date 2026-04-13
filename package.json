@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-photoweb",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Photoweb depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-photoweb",
+    "bon-de-reduction-photoweb",
+    "coupon-photoweb",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/photoweb.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-photoweb.git"
+  }
+}
